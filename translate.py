@@ -10,7 +10,6 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-Test
 class Ui_translate(object):
     def setupUi(self, translate):
         translate.setObjectName("translate")
